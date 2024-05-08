@@ -21,7 +21,7 @@ import lombok.ToString;
 @AllArgsConstructor
 @NoArgsConstructor
 @ToString
-@Document(indexName = "harshal_index_2")
+//@Document(indexName = "harshal_index_2")
 public class CricketersDocument {
 
 	@Id
